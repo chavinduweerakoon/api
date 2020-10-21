@@ -15,3 +15,7 @@ http-server # or `python -m http.server` or any HTTP file server
 Now open http://localhost:8080/local.html, you should see the generated API doc.
 
 Make modifications to `doc/specs/lichess-api.yaml`, and reload the page to see your changes.
+
+
+0AUth documentation 
+https://lichess.org/api#section/Authentication
